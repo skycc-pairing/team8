@@ -1,2 +1,1 @@
-# team8
-KUrepas
+# KUrepas
